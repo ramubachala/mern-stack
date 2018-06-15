@@ -1,0 +1,11 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "simple mern stack web application to play with mongo react node and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Ramu Bachala",
+  "license": "ISC"
+}
